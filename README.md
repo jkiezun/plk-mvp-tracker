@@ -8,15 +8,15 @@ Data is scraped from plk.pl/archiwum and plk.pl websites with requests and Beaut
 
 ### Requirements
 
-pandas
-numpy
-matplotlib
-sklearn
-jupyter
-tensorflow
-seaborn
-keras
-scikit-image
+pandas  
+numpy  
+matplotlib  
+sklearn  
+jupyter  
+tensorflow  
+seaborn  
+keras  
+scikit-image  
 
 ### Running the app
 

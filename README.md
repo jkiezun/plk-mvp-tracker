@@ -13,7 +13,7 @@ numpy
 matplotlib  
 sklearn  
 jupyter  
-BeautifulSoup
+BeautifulSoup  
 requests
 
 ### Running the app

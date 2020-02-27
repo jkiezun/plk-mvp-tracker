@@ -13,10 +13,8 @@ numpy
 matplotlib  
 sklearn  
 jupyter  
-tensorflow  
-seaborn  
-keras  
-scikit-image  
+BeautifulSoup
+requests
 
 ### Running the app
 

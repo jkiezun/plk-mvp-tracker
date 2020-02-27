@@ -3,7 +3,5 @@ numpy
 matplotlib
 sklearn
 jupyter
-tensorflow
-seaborn
-keras
-scikit-image
+bs4
+requests
